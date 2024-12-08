@@ -1,1 +1,2 @@
-test test test
+oracle id: 728193921, ID is for cloud database mainly has emails & passwords.
+also uses 36% of the ram allocation on the orcale instance, the other 64% is mainly unused but is needed for times when wifi is out and i need to stream still.
